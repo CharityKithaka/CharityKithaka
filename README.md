@@ -1,9 +1,10 @@
 ### Hi there 👋👨‍💻
 
 
-- 🔭 Open source contributor + software engineer (backend).
-- 🌱 Contributing to `python` (`django`) projects. Previous experience of working with `java(springboot)`. Continuously learning. 
-- 👯 Open to collaborate on `python` projects.
-- 💬 Ask me about `java` and `python`
-- 📫 How to reach me: [@CharityKith](https://twitter.com/CharityKith) 
+- 🔭 Open source contributor + Software Engineer (backend).
+- 🌱 Contributing to `python` projects.
+- 👨‍💻 Continuously learning. 
+- 👯 Open to collaborate on  projects.
+
+[Twitter](https://twitter.com/CharityKith) * [Linkedln](https://www.linkedin.com/in/charity-kithaka-10a8a415a/) * [Blog](charityk.hashnode.dev)
 
