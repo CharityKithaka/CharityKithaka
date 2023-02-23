@@ -6,5 +6,5 @@
 - 👨‍💻 Continuously learning. 
 - 👯 Open to collaborate on  projects.
 
-[Twitter](https://twitter.com/CharityKith) * [Linkedln](https://www.linkedin.com/in/charity-kithaka-10a8a415a/) * [Blog](charityk.hashnode.dev)
+[Twitter](https://twitter.com/CharityKith) : [Linkedln](https://www.linkedin.com/in/charity-kithaka-10a8a415a/) : [Blog](charityk.hashnode.dev)
 
