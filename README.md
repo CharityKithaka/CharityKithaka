@@ -2,7 +2,7 @@
 
 
 - 🔭 Open source contributor + Software Engineer (backend).
-- 🌱 Contributing to `python` projects.
+- 🌱 Contributing to projects.
 - 👨‍💻 Continuously learning. 
 - 👯 Open to collaborate on  projects.
 
