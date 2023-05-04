@@ -1,4 +1,4 @@
-### Hi there 👋👨‍💻
+### Hi there 👋
 
 
 - 🔭 Open source contributor + Software Engineer.
@@ -6,4 +6,4 @@
 - 👨‍💻 Continuously learning. 
 - 👯 Open to collaborate on  projects.
 
-[Twitter](https://twitter.com/CharityKith) 
+
