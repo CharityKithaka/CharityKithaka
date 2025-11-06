@@ -2,7 +2,7 @@
 
 
 - 🔭 Open source contributor + Software Engineer.
-- 🌱 Contributing to projects.
+- 🌱 Contributing to Python projects. 
 - 👨‍💻 Continuously learning. 
 
 
