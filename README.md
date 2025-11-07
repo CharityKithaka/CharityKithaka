@@ -3,7 +3,7 @@
 
 - 🔭 Open source contributor + Software Engineer.
 - 🌱 Contributing to Python projects. 
-- 👨‍💻 Continuously learning. 
+- 👨‍💻 Currently taking a deep dive into Production engineering systems and networks. 
 
 
 
